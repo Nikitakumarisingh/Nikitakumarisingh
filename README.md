@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Nikitakumarisingh
-- 👀 I’m interested in Software Devlopment 
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on Project related to ML
-- 📫 You can reach me on https://www.linkedin.com/in/nikita-kumari-58455b284/
 - 😄 Pronouns: She/Her
+- 👀 I’m interested in Software Devlopment and Machine Learning
+- 💞️ I’m looking to collaborate on Project related to ML and Web devlopment
+- 📫 Connect me https://linktr.ee/nikitakumarisingh
 - ⚡ Fun fact: Fictional World is my another word 
 
 <!---
